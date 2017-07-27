@@ -27,6 +27,12 @@ p {
 	color: #777;
 }
 
+/*footer font*/
+.ftr {
+	color: #fff;
+	font-size: 14px;
+}
+
 header {
 	background-color: #fff;
 	padding: 0;
