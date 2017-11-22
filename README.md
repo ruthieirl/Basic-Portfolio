@@ -5,13 +5,13 @@ As I mentioned in my bio, I'm currently enrolled in a coding bootcamp at Rutgers
 Screenshots of my three pages are displayed below:
 
 ## Home
-[Imgur](https://i.imgur.com/8ZESR49.png)
+![Imgur](https://i.imgur.com/8ZESR49.png)
 
 ## Portfolio
-[Imgur](https://i.imgur.com/VuFGeVB.png)
+![Imgur](https://i.imgur.com/VuFGeVB.png)
 
 ## Contact
-[Imgur](https://i.imgur.com/1RG05Em.png)
+![Imgur](https://i.imgur.com/1RG05Em.png)
 
 This content can be viewed live [here](https://ruthieirl.github.io/Basic-Portfolio/index.html).
 
