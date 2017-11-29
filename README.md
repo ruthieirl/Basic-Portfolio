@@ -1,4 +1,13 @@
-# Basic-Portfolio
+-----------------------------------------
+# Basic Portfolio
+
+#### HTML * CSS  
+
+
+-----------------------------------------
+
+
+## What is it?
 
 As I mentioned in my bio, I'm currently enrolled in a coding bootcamp at Rutgers University. Our first homework assignment was to build a 3 page portfolio using HTML and CSS. This mini-site included a home page, a portfolio page, and a contact page. Though the navigational links and social media links are live, the links for each portfolio project are dead.  
 
@@ -17,4 +26,4 @@ This content can be viewed live [here](https://ruthieirl.github.io/Basic-Portfol
 
 - - -
 
-Ruthie Campiz © 2017 All Rights Reserved.
+Ruthie Campiz © 2017 All Rights Reserved
